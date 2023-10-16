@@ -1,0 +1,16 @@
+2023-10-16 14:53:01.747[1697457181747] | INFO  | main       | c.b.c.f.c.utils.WebSocketConnection  - [Connection 1] Connecting to fstream.binance.com/ws/btcusdt@aggTrade
+2023-10-16 14:53:03.966[1697457183966] | INFO  | OkHttp https://fstream.binance.com/... | c.b.c.f.c.utils.WebSocketConnection  - [Connection 1] Connected to Server
+2023-10-16 14:54:35.592[1697457275592] | INFO  | main       | c.b.c.f.c.utils.WebSocketConnection  - [Connection 1] Connecting to fstream.binance.com/ws/btcusdt@aggTrade
+2023-10-16 14:54:37.659[1697457277659] | INFO  | OkHttp https://fstream.binance.com/... | c.b.c.f.c.utils.WebSocketConnection  - [Connection 1] Connected to Server
+2023-10-16 18:38:26.406[1697470706406] | INFO  | main       | c.b.c.f.c.utils.WebSocketConnection  - [Connection 1] Connecting to fstream.binance.com/ws/btcusdt@aggTrade
+2023-10-16 18:38:26.423[1697470706423] | INFO  | main       | c.b.c.f.c.utils.WebSocketConnection  - [Connection 2] Connecting to fstream.binance.com/ws/ethusdt@aggTrade
+2023-10-16 18:38:26.425[1697470706425] | INFO  | main       | c.b.c.f.c.utils.WebSocketConnection  - [Connection 3] Connecting to fstream.binance.com/ws/bnbusdt@aggTrade
+2023-10-16 18:38:28.731[1697470708731] | INFO  | OkHttp https://fstream.binance.com/... | c.b.c.f.c.utils.WebSocketConnection  - [Connection 2] Connected to Server
+2023-10-16 18:38:28.731[1697470708731] | INFO  | OkHttp https://fstream.binance.com/... | c.b.c.f.c.utils.WebSocketConnection  - [Connection 3] Connected to Server
+2023-10-16 18:38:28.758[1697470708758] | INFO  | OkHttp https://fstream.binance.com/... | c.b.c.f.c.utils.WebSocketConnection  - [Connection 1] Connected to Server
+2023-10-16 18:40:52.522[1697470852522] | INFO  | main       | c.b.c.f.c.utils.WebSocketConnection  - [Connection 1] Connecting to fstream.binance.com/ws/btcusdt@aggTrade
+2023-10-16 18:40:52.541[1697470852541] | INFO  | main       | c.b.c.f.c.utils.WebSocketConnection  - [Connection 2] Connecting to fstream.binance.com/ws/ethusdt@aggTrade
+2023-10-16 18:40:52.543[1697470852543] | INFO  | main       | c.b.c.f.c.utils.WebSocketConnection  - [Connection 3] Connecting to fstream.binance.com/ws/bnbusdt@aggTrade
+2023-10-16 18:40:54.521[1697470854521] | INFO  | OkHttp https://fstream.binance.com/... | c.b.c.f.c.utils.WebSocketConnection  - [Connection 3] Connected to Server
+2023-10-16 18:40:54.521[1697470854521] | INFO  | OkHttp https://fstream.binance.com/... | c.b.c.f.c.utils.WebSocketConnection  - [Connection 2] Connected to Server
+2023-10-16 18:40:55.945[1697470855945] | INFO  | OkHttp https://fstream.binance.com/... | c.b.c.f.c.utils.WebSocketConnection  - [Connection 1] Connected to Server
